@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="date">Date : </string>
+    <string name="temperature">Temperature</string>
+    <string name="normal">Normal</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="separator">:</string>
+    <string name="wind">Wind</string>
+    <string name="speed">Speed</string>
+    <string name="deg">Deg</string>
+    <string name="rain">Rain</string>
+    <string name="threed">3D</string>
+
+</resources>
